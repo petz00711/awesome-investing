@@ -59,6 +59,7 @@ First, before you start to invest why not learn a thing or two?
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
 |[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
 |[ROIC.ai](https://www.roic.ai)|Minimalistic financial data for public companies|
+|[Fair Value Calculator](https://www.fairvalue-calculator.com/)|Fair value estimate and quality score for 35,000+ stocks worldwide, with screener and watchlist (US, Europe, Asia, ...)|
 
 # Insider & Superinvestors portfolios
 
